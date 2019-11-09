@@ -1,0 +1,155 @@
+[
+  {
+    "Id": 1,
+    "GrupoClienteId": 1,
+    "Nome": "JOSÉ",
+    "Sobrenome": "MINEIRO",
+    "DataNascimento": "1980-10-17T00:00:00",
+    "Vip": true,
+    "Endereco": {
+      "Id": 1,
+      "CEP": "2323232",
+      "Rua": "S. ABREU",
+      "Numero": "2222333",
+      "Bairro": "12345",
+      "Cidade": "COLATINA",
+      "Complemento": "asdadadadasd"
+    },
+    "Emails": [
+      {
+        "Id": 0,
+        "Email": "MARCELLOAZE@GMAIL.COM",
+        "Comentario": null
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "GrupoClienteId": 4,
+    "Nome": "MARCELO",
+    "Sobrenome": "AZEVEDO",
+    "DataNascimento": "1980-10-28T00:00:00",
+    "Vip": true,
+    "Endereco": {
+      "Id": 1,
+      "CEP": "1223",
+      "Rua": "ASDADASD",
+      "Numero": "12345",
+      "Bairro": "12345",
+      "Cidade": "VITORIA",
+      "Complemento": "asdadadadasd"
+    },
+    "Emails": [
+      {
+        "Id": 0,
+        "Email": "MARCELLOAZE@GMAIL.COM",
+        "Comentario": "PRINCIPAL"
+      },
+      {
+        "Id": 0,
+        "Email": "TESTE@GMAIL.COM",
+        "Comentario": null
+      },
+      {
+        "Id": 0,
+        "Email": "MAS@GMAIL.COM",
+        "Comentario": null
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "GrupoClienteId": 3,
+    "Nome": "MATEUS",
+    "Sobrenome": "LIMA",
+    "DataNascimento": "1980-10-28T00:00:00",
+    "Vip": true,
+    "Endereco": {
+      "Id": 0,
+      "CEP": "1223",
+      "Rua": "ASDADASD",
+      "Numero": "12345",
+      "Bairro": "12345",
+      "Cidade": "VILA VELHA",
+      "Complemento": "asdadadadasd"
+    },
+    "Emails": [
+      {
+        "Id": 0,
+        "Email": "marcello@gmail.com",
+        "Comentario": "teste"
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "GrupoClienteId": 2,
+    "Nome": "PEDRO",
+    "Sobrenome": "SANTOS",
+    "DataNascimento": "1980-10-28T00:00:00",
+    "Vip": true,
+    "Endereco": {
+      "Id": 0,
+      "CEP": "1223",
+      "Rua": "ASDADASD",
+      "Numero": "12345",
+      "Bairro": "12345",
+      "Cidade": null,
+      "Complemento": "asdadadadasd"
+    },
+    "Emails": [
+      {
+        "Id": 0,
+        "Email": "ASDASD@ASDASD.com",
+        "Comentario": null
+      },
+      {
+        "Id": 0,
+        "Email": "ASDASDASDASD",
+        "Comentario": null
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "GrupoClienteId": 5,
+    "Nome": "marios",
+    "Sobrenome": "DA SILVASs",
+    "DataNascimento": "1980-02-13T00:00:00",
+    "Vip": false,
+    "Endereco": {
+      "Id": 0,
+      "CEP": "1293392922",
+      "Rua": "DAS 2",
+      "Numero": "2",
+      "Bairro": "12345",
+      "Cidade": "serras",
+      "Complemento": "asdadadadasd"
+    },
+    "Emails": [
+      {
+        "Id": 0,
+        "Email": "marcel2lo@gmail.com",
+        "Comentario": null
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "GrupoClienteId": 3,
+    "Nome": "marcello",
+    "Sobrenome": "SILVAS",
+    "DataNascimento": "1980-10-29T00:00:00",
+    "Vip": false,
+    "Endereco": {
+      "Id": 0,
+      "CEP": "2222",
+      "Rua": "2222SREAWEQWE",
+      "Numero": "12345322",
+      "Bairro": "12345",
+      "Cidade": "ALAGOASQWE1122323",
+      "Complemento": "asdadadadasd"
+    },
+    "Emails": []
+  }
+]
